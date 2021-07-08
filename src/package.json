@@ -11,7 +11,7 @@
   "author": "Alper Konuralp",
   "license": "ISC",
   "dependencies": {
-    "@types/pdfkit": "^0.7.36",
+    "@types/pdfkit": "^0.11.2",
     "pdfkit": "^0.9.1"
   },
   "devDependencies": {
